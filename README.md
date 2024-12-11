@@ -148,7 +148,9 @@ Testing the webserver.
 
 ## OUTPUT:
 ![alt text](output.png)
-![alt text](<Screenshot 2024-11-25 113058.png>)
+
+![simple1 ](https://github.com/user-attachments/assets/a8b62066-6bd1-4351-af8f-229792d1bdb4)
+
 
 
 
