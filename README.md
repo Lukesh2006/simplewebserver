@@ -147,9 +147,11 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![alt text](output.png)
+
 
 ![simple1 ](https://github.com/user-attachments/assets/a8b62066-6bd1-4351-af8f-229792d1bdb4)
+![alt text](output.png)
+
 
 
 
